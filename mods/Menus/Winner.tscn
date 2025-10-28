@@ -4,5 +4,8 @@
 
 [node name="Menus" instance=ExtResource("1_id5k6")]
 
+[node name="ColorRect" parent="." index="0"]
+color = Color(0.10980392, 1, 0.0627451, 1)
+
 [node name="Title" parent="ColorRect" index="0"]
 text = "Winner!"
